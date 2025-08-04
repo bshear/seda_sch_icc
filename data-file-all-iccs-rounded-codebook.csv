@@ -1,0 +1,8 @@
+"Variable","Description"
+"subject","Tested Subject (mth=math; rla=reading/language arts)"
+"stateabb","State"
+"grade","Tested Grade"
+"year","Tested Year"
+"icc","Estimated between-school ICC (tau^2 parameter in paper)"
+"nschools","Number of schools included in estimation (rounded to nearest 10)"
+"nstudents","Number of tested students included in estimation (rounded to nearest 10)"
