@@ -2,7 +2,7 @@
 
 Data file of between-school ICC estimates to accompany:
 
-Shear, B. R., Taylor, J., & Fahle, E. M. (2025). Determinants of between-school variation in student achievement: Results from US population data.
+Shear, B. R., Taylor, J. A., & Fahle, E. M. (2026). Determinants of between-school variation in student achievement: Results from US population data. Journal of Research on Educational Effectiveness, 1–25. https://doi.org/10.1080/19345747.2025.2598314
 
 Please use the above citation if you use these estimates in your work.
 
